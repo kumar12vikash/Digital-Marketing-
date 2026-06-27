@@ -1,0 +1,26 @@
+{
+  "name": "forma-studio",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.2.35",
+    "react": "^18",
+    "react-dom": "^18",
+    "lucide-react": "^0.383.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.1",
+    "postcss": "^8.5.10",
+    "autoprefixer": "^10.0.1"
+  },
+  "description": "A modern, responsive design-agency homepage built with **Next.js 14 (App Router)** and **Tailwind CSS**, created as a Next.js Developer Internship task submission.",
+  "main": "next.config.js",
+  "author": "\"vikash\"",
+  "license": "ISC"
+}
